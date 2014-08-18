@@ -13,6 +13,7 @@ gem 'autoprefixer-rails'
 
 # Use Haml. This is controversial, and not everyone prefers haml. If you don't like it, comment it out!
 gem 'haml'
+gem 'haml-rails'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
